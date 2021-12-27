@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "mainapp": "apps/mainapp",
+    "shared": "libs/shared"
+  }
 }
